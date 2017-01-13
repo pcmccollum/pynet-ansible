@@ -1,0 +1,10 @@
+Blah blah blah
+Blah blah blah
+total 60
+drwxrwxr-x 3 pcmccollum pcmccollum  4096 Jan 13 09:55 .
+drwx------ 9 pcmccollum pcmccollum  4096 Jan 13 09:55 ..
+-rw-rw-r-- 1 pcmccollum pcmccollum    30 Jan 13 09:55 dummy_file
+drwxrwxr-x 8 pcmccollum pcmccollum  4096 Jan 13 09:53 .git
+-rw-rw-r-- 1 pcmccollum pcmccollum  1045 Jan 13 09:53 .gitignore
+-rw-rw-r-- 1 pcmccollum pcmccollum 35141 Jan 13 09:53 LICENSE
+-rw-rw-r-- 1 pcmccollum pcmccollum    74 Jan 13 09:53 README.md
